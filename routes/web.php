@@ -1,13 +1,26 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BudayaController;
+use App\Http\Controllers\TentangController;
+use App\Http\Controllers\KontakController;
 
 Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/budaya', [BudayaController::class, 'index'])->name('budaya');
+
+Route::get('/tentang', [TentangController::class, 'index'])->name('tentang');
+
+Route::get('/kontak', [KontakController::class, 'index'])->name('kontak');
+
 Route::get('/aceh', function () {
-    return view('welcome');
+    return view('budaya.aceh');
+});
+
+Route::get('/k1aceh', function () {
+    return view('aceh.konten1');
 });
 
 Route::get('/sumaterautara', function () {

@@ -17,6 +17,7 @@
 
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="https://use.fontawesome.com/releases/v5.15.4/css/all.css    " rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
@@ -40,28 +41,28 @@
                     <div class="col-lg-7 text-left text-white">
                         <div class="h-100 d-inline-flex align-items-center border-right border-primary py-2 px-3">
                             <i class="fa fa-envelope text-primary mr-2"></i>
-                            <small>gameboardbolang.id</small>
+                            <small>gameboardbolang@gmail.com</small>
                         </div>
                         <div class="h-100 d-inline-flex align-items-center py-2 px-2">
                             <i class="fa fa-phone-alt text-primary mr-2"></i>
-                            <small>+012 345 6789</small>
+                            <small>+62 857 3062 7705</small>
                         </div>
                     </div>
                     <div class="col-lg-5 text-right">
                         <div class="d-inline-flex align-items-center pr-2">
-                            <a class="text-primary p-2" href="">
-                                <i class="fab fa-facebook-f"></i>
+                            <a class="text-primary p-2" href="https://www.tiktok.com/@gameboard.bolang?is_from_webapp=1&sender_device=pc">
+                                <i class="fab fa-tiktok"></i>
                             </a>
-                            <a class="text-primary p-2" href="">
-                                <i class="fab fa-twitter"></i>
+                            <a class="text-primary p-2" href="https://shopee.co.id/bolang.store13?smtt=0.828665072-1660298461.9">
+                                <i class="fa fa-shopping-cart"></i>
                             </a>
-                            <a class="text-primary p-2" href="">
-                                <i class="fab fa-linkedin-in"></i>
+                            <a class="text-primary p-2" href="https://api.whatsapp.com/send/?phone=%2B6285730627705&text&type=phone_number&app_absent=0">
+                                <i class="fab fa-whatsapp"></i>
                             </a>
-                            <a class="text-primary p-2" href="">
+                            <a class="text-primary p-2" href="https://instagram.com/gameboard.bolang?igshid=YmMyMTA2M2Y=">
                                 <i class="fab fa-instagram"></i>
                             </a>
-                            <a class="text-primary p-2" href="">
+                            <a class="text-primary p-2" href="https://www.youtube.com/channel/UCLe4pdSReApSfc7iwPUw4Vw">
                                 <i class="fab fa-youtube"></i>
                             </a>
                         </div>
@@ -76,16 +77,10 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto py-0">
-                            <a href="index.html" class="nav-item nav-link active">Beranda</a>
-                            <a href="about.html" class="nav-item nav-link">Tentang Kami</a>
-                            <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Budaya</a>
-                                <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="blog.html" class="dropdown-item">Pakaian Adat</a>
-                                    <a href="single.html" class="dropdown-item">Rumah Adat</a>
-                                </div>
-                            </div>
-                            <a href="contact.html" class="nav-item nav-link">Kontak</a>
+                            <a href="/" class="nav-item nav-link active">Beranda</a>
+                            <a href="/budaya" class="nav-item nav-link">Budaya</a>
+                            <a href="/tentang" class="nav-item nav-link">Tentang Kami</a>
+                            <a href="/kontak" class="nav-item nav-link">Hubungi</a>
                         </div>
                         <a href="" class="btn btn-primary mr-3 d-none d-lg-block">Get A Quote</a>
                     </div>
@@ -111,7 +106,7 @@
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 class="text-primary text-uppercase mb-md-3">Bolang</h5>
                             <h1 class="display-3 text-white mb-md-4">Serunya Jelajah Budaya Nusantara</h1>
-                            <a href="" class="btn btn-primary">Dapatkan Produk Kami</a>
+                            <a href="https://shopee.co.id/bolang.store13?smtt=0.828665072-1660298461.9" class="btn btn-primary">Dapatkan Produk Kami</a>
                         </div>
                     </div>
                 </div>
@@ -120,8 +115,8 @@
                     <div class="carousel-caption d-flex align-items-center justify-content-center">
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 class="text-primary text-uppercase mb-md-3">Bolang</h5>
-                            <h1 class="display-3 text-white mb-md-4">Belajar Sambil Bermain</h1>
-                            <a href="" class="btn btn-primary">Dapatkan Produk Kami</a>
+                            <h1 class="display-3 text-white mb-md-4">Bermain Sambil Belajar</h1>
+                            <a href="https://shopee.co.id/bolang.store13?smtt=0.828665072-1660298461.9" class="btn btn-primary">Dapatkan Produk Kami</a>
                         </div>
                     </div>
                 </div>
@@ -131,7 +126,7 @@
                         <div class="p-5" style="width: 100%; max-width: 900px;">
                             <h5 class="text-primary text-uppercase mb-md-3">Bolang</h5>
                             <h1 class="display-3 text-white mb-md-4">Papan Permainan Berkonsep Jelajah Budaya</h1>
-                            <a href="" class="btn btn-primary">Dapatkan Produk Kami</a>
+                            <a href="https://shopee.co.id/bolang.store13?smtt=0.828665072-1660298461.9" class="btn btn-primary">Dapatkan Produk Kami</a>
                         </div>
                     </div>
                 </div>
@@ -158,7 +153,7 @@
                     <i class="fa fa-3x fa-envelope-open text-primary mr-4"></i>
                     <div class="">
                         <h5 class="mb-2">Email Us</h5>
-                        <p class="m-0">bolang@gmail.com</p>
+                        <p class="m-0">gameboardbolang@gmail.com</p>
                     </div>
                 </div>
             </div>
@@ -167,7 +162,7 @@
                     <i class="fa fa-3x fa-phone-alt text-secondary mr-4"></i>
                     <div class="">
                         <h5 class="mb-2">Call Us</h5>
-                        <p class="m-0">+012 345 6789</p>
+                        <p class="m-0">+62 857 3062 7705</p>
                     </div>
                 </div>
             </div>
@@ -183,19 +178,21 @@
                 <div class="col-lg-5">
                     <div class="d-flex flex-column align-items-center justify-content-center bg-about rounded h-100 py-5 px-3">
                         <i class="fa fa-5x fa-award text-primary mb-4"></i>
-                        <h1 class="display-2 text-white mb-2" data-toggle="counter-up">35</h1>
+                        <h1 class="display-2 text-white mb-2" data-toggle="counter-up">40</h1>
                         <h2 class="text-white m-0">Produk Terjual</h2>
                     </div>
                 </div>
                 <div class="col-lg-7 pt-5 pb-lg-5">
                     <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Learn About Us</h6>
                     <h1 class="mb-4 section-title">Bolang - Papan Permainan Jelajah Budaya</h1>
-                    <h5 class="text-muted font-weight-normal mb-3">Eos kasd eos dolor vero vero, lorem stet diam rebum. Ipsum amet sed vero dolor sea lorem justo est dolor eos</h5>
-                    <p>Invidunt lorem justo sanctus clita. Erat lorem labore ea, justo dolor lorem ipsum ut sed eos, ipsum et dolor kasd sit ea justo. Erat justo sed sed diam. Ea et erat ut sed diam sea ipsum est dolor</p>
+                    <h5 class="text-muted font-weight-normal mb-3">Bolang merupakan gameboard interaktif dimana melalui permainan ini anak-anak dapat bermain sekaligus belajar mengenai budaya Indonesia.</h5>
+                    <p>Budaya pada permainan Bolang ini dikemas dalam pion yang berbentuk tokoh pewayangan, rumah, pakaian,
+
+dan senjata adat pada kartu yang nantinya dapat dipasangkan dengan asal provinsi budaya tersebut.</p>
                     <div class="d-flex align-items-center pt-4">
                         <a href="" class="btn btn-primary mr-5">Learn More</a>
                         <button type="button" class="btn-play" data-toggle="modal"
-                            data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
+                            data-src="https://www.youtube.com/embed/Y0VcotnnCjE" data-target="#videoModal">
                             <span></span>
                         </button>
                         <h5 class="font-weight-normal text-white m-0 ml-4 d-none d-sm-block">Play Video</h5>
@@ -226,200 +223,6 @@
     <!-- Video Modal End -->
 
 
-    <!-- Services Start -->
-    <div class="container-fluid bg-service py-5">
-        <div class="container py-5">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Our Services</h6>
-                    <h1 class="mb-4 section-title text-white">Awesome Cleaning Services For You</h1>
-                    <p class="text-white">Invidunt lorem justo clita. Erat lorem labore ea, justo dolor lorem ipsum ut sed eos, ipsum et dolor kasd sit ea justo. Erat justo sed sed diam. Ea et erat ut sed diam sea ipsum</p>
-                    <a href="" class="btn btn-primary mt-3 py-2 px-4">More Services</a>
-                </div>
-                <div class="col-lg-6 pt-5 pt-lg-0">
-                    <div class="owl-carousel service-carousel position-relative">
-                        <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden pt-4">
-                            <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
-                                <i class="fa fa-2x fa-hotel"></i>
-                            </div>
-                            <h5 class="font-weight-bold mb-4 px-4">Home Cleaning</h5>
-                            <img src="img/blog-1.jpg" alt="">
-                        </div>
-                        <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden pt-4">
-                            <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
-                                <i class="fa fa-2x fa-city"></i>
-                            </div>
-                            <h5 class="font-weight-bold mb-4 px-4">Window Cleaning</h5>
-                            <img src="img/blog-3.jpg" alt="">
-                        </div>
-                        <div class="d-flex flex-column align-items-center text-center bg-white rounded overflow-hidden pt-4">
-                            <div class="icon-box bg-light text-secondary shadow mt-2 mb-4">
-                                <i class="fa fa-2x fa-spa"></i>
-                            </div>
-                            <h5 class="font-weight-bold mb-4 px-4">Carpet Cleaning</h5>
-                            <img src="img/blog-2.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Services End -->
-
-
-    <!-- Features Start -->
-    <div class="container-fluid py-5">
-        <div class="container py-5">
-            <div class="row">
-                <div class="col-lg-7 pt-lg-5 pb-3">
-                    <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Why Choose Us</h6>
-                    <h1 class="mb-4 section-title">25 Years Experience In Cleaning Industry</h1>
-                    <p class="mb-4">Dolores lorem lorem ipsum sit et ipsum. Sadip sea amet diam dolore sed et. Sit rebum labore sit sit ut vero no sit. Et elitr stet dolor sed sit et sed ipsum et kasd ut. Erat duo eos et erat sed diam duo</p>
-                    <div class="row">
-                        <div class="col-sm-4">
-                            <h1 class="text-secondary mb-2" data-toggle="counter-up">225</h1>
-                            <h6 class="font-weight-semi-bold mb-sm-4">Our Cleaners</h6>
-                        </div>
-                        <div class="col-sm-4">
-                            <h1 class="text-secondary mb-2" data-toggle="counter-up">1050</h1>
-                            <h6 class="font-weight-semi-bold mb-sm-4">Happy Clients</h6>
-                        </div>
-                        <div class="col-sm-4">
-                            <h1 class="text-secondary mb-2" data-toggle="counter-up">2500</h1>
-                            <h6 class="font-weight-semi-bold mb-sm-4">Projects Done</h6>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5" style="min-height: 400px;">
-                    <div class="position-relative h-100 rounded overflow-hidden">
-                        <img class="position-absolute w-100 h-100" src="img/feature.jpg" style="object-fit: cover;">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Features End -->
-
-
-    <!-- Portfolio Start -->
-    <div class="container-fluid bg-portfolio py-5">
-        <div class="container py-5">
-            <div class="row m-0 portfolio-container">
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
-                    <div class="position-relative overflow-hidden">
-                        <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-1.jpg" alt="">
-                        </div>
-                        <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Project Name</h4>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
-                                    <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-1.jpg" data-lightbox="portfolio">
-                                    <i class="fa fa-eye"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
-                    <div class="position-relative overflow-hidden">
-                        <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-2.jpg" alt="">
-                        </div>
-                        <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Project Name</h4>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
-                                    <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-2.jpg" data-lightbox="portfolio">
-                                    <i class="fa fa-eye"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
-                    <div class="position-relative overflow-hidden">
-                        <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-3.jpg" alt="">
-                        </div>
-                        <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Project Name</h4>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
-                                    <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-3.jpg" data-lightbox="portfolio">
-                                    <i class="fa fa-eye"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
-                    <div class="position-relative overflow-hidden">
-                        <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-4.jpg" alt="">
-                        </div>
-                        <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Project Name</h4>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
-                                    <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-4.jpg" data-lightbox="portfolio">
-                                    <i class="fa fa-eye"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
-                    <div class="position-relative overflow-hidden">
-                        <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-5.jpg" alt="">
-                        </div>
-                        <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Project Name</h4>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
-                                    <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-5.jpg" data-lightbox="portfolio">
-                                    <i class="fa fa-eye"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 p-0 portfolio-item">
-                    <div class="position-relative overflow-hidden">
-                        <div class="portfolio-img">
-                            <img class="img-fluid w-100" src="img/portfolio-6.jpg" alt="">
-                        </div>
-                        <div class="portfolio-text bg-primary">
-                            <h4 class="font-weight-bold mb-4">Project Name</h4>
-                            <div class="d-flex align-items-center justify-content-center">
-                                <a class="btn btn-sm btn-secondary m-1" href="">
-                                    <i class="fa fa-link"></i>
-                                </a>
-                                <a class="btn btn-sm btn-secondary m-1" href="img/portfolio-6.jpg" data-lightbox="portfolio">
-                                    <i class="fa fa-eye"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-    </div>
-    <!-- Portfolio End -->
-
-
     <!-- Team Start -->
     <div class="container-fluid py-5">
         <div class="container py-5">
@@ -429,7 +232,7 @@
                     <h1 class="section-title mb-3">Mari Kenalan dengan Tim Kami</h1>
                 </div>
                 <div class="col-lg-6">
-                    <h4 class="font-weight-normal text-muted mb-3">Eirmod kasd duo eos et magna, diam dolore stet sea clita sit ea erat lorem. Ipsum eos ipsum magna lorem stet</h4>
+                    <h4 class="font-weight-normal text-muted mb-3">Berikut adalah founder dari Bolang</h4>
                 </div>
             </div>
             <div class="row">
@@ -448,7 +251,7 @@
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
                                 <h5 class="font-weight-bold">Abdul Aziz Mujib</h5>
-                                <p class="text-white m-0">Designation</p>
+                                <p class="text-white m-0">Chief Executive Officer</p>
                             </div>
                         </div>
                         <div class="team d-flex flex-column text-center rounded overflow-hidden">
@@ -464,7 +267,7 @@
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
                                 <h5 class="font-weight-bold">Adindatul Islamiyah</h5>
-                                <p class="text-white m-0">Designation</p>
+                                <p class="text-white m-0">Chief Operating Officer</p>
                             </div>
                         </div>
                         <div class="team d-flex flex-column text-center rounded overflow-hidden">
@@ -480,7 +283,7 @@
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
                                 <h5 class="font-weight-bold">Aldinata Noer Hidayat</h5>
-                                <p class="text-white m-0">Designation</p>
+                                <p class="text-white m-0">Chief Financial Officer</p>
                             </div>
                         </div>
                         <div class="team d-flex flex-column text-center rounded overflow-hidden">
@@ -495,8 +298,8 @@
                                 </div>
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
-                                <h5 class="font-weight-bold">Vinsesia Shinta Purnama Dewi Sarumaha</h5>
-                                <p class="text-white m-0">Designation</p>
+                                <h5 class="font-weight-bold">Vinsesia Shinta Purnama Dewi S</h5>
+                                <p class="text-white m-0">Chief Marketing Officer</p>
                             </div>
                         </div>
                         <div class="team d-flex flex-column text-center rounded overflow-hidden">
@@ -512,7 +315,7 @@
                             </div>
                             <div class="d-flex flex-column bg-primary text-center py-4">
                                 <h5 class="font-weight-bold">Alya Nur Sabrina</h5>
-                                <p class="text-white m-0">Designation</p>
+                                <p class="text-white m-0">Chief Communication Officer</p>
                             </div>
                         </div>
                     </div>
@@ -529,43 +332,43 @@
             <div class="row">
                 <div class="col-lg-7 pt-lg-5 pb-5">
                     <h6 class="text-secondary font-weight-semi-bold text-uppercase mb-3">Testimonial</h6>
-                    <h1 class="section-title text-white mb-5">What Our Clients Say</h1>
+                    <h1 class="section-title text-white mb-5">Pendapat Klien Kami</h1>
                     <div class="owl-carousel testimonial-carousel position-relative">
                         <div class="d-flex flex-column text-white">
                             <div class="d-flex align-items-center mb-3">
-                                <img class="img-fluid" src="img/testimonial-1.jpg" alt="">
+                                <img class="img-fluid" src="img/haris.jpg" alt="">
                                 <div class="ml-3">
-                                    <h5 class="text-primary">Client Name</h5>
-                                    <i>Profession</i>
+                                    <h5 class="text-primary">Mochammad Harisman</h5>
+                                    <i>Mahasiswa</i>
                                 </div>
                             </div>
-                            <p>Tempor at diam tempor sed. Sanctus dolor ipsum ut nonumy amet clita sea. Sed eos sed dolores vero no. Ipsum elitr elitr stet dolor  lorem erat. Diam no amet sea justo vero ut. Dolor ipsum kasd ipsum dolore.</p>
+                            <p>Gameboard inovatif bertema budaya</p>
                         </div>
                         <div class="d-flex flex-column text-white">
                             <div class="d-flex align-items-center mb-3">
-                                <img class="img-fluid" src="img/testimonial-2.jpg" alt="">
+                                <img class="img-fluid" src="img/chacha.jpg" alt="">
                                 <div class="ml-3">
-                                    <h5 class="text-primary">Client Name</h5>
-                                    <i>Profession</i>
+                                    <h5 class="text-primary">Talitha Anargya</h5>
+                                    <i>Mahasiswi</i>
                                 </div>
                             </div>
-                            <p>Tempor at diam tempor sed. Sanctus dolor ipsum ut nonumy amet clita sea. Sed eos sed dolores vero no. Ipsum elitr elitr stet dolor  lorem erat. Diam no amet sea justo vero ut. Dolor ipsum kasd ipsum dolore.</p>
+                            <p>Sangat menarik cocok untuk anak - anak mengurangi kecanduan gadget.</p>
                         </div>
                         <div class="d-flex flex-column text-white">
                             <div class="d-flex align-items-center mb-3">
-                                <img class="img-fluid" src="img/testimonial-3.jpg" alt="">
+                                <img class="img-fluid" src="img/rika.jpg" alt="">
                                 <div class="ml-3">
-                                    <h5 class="text-primary">Client Name</h5>
-                                    <i>Profession</i>
+                                    <h5 class="text-primary">Anis Arikah</h5>
+                                    <i>Mahasiswi</i>
                                 </div>
                             </div>
-                            <p>Tempor at diam tempor sed. Sanctus dolor ipsum ut nonumy amet clita sea. Sed eos sed dolores vero no. Ipsum elitr elitr stet dolor  lorem erat. Diam no amet sea justo vero ut. Dolor ipsum kasd ipsum dolore.</p>
+                            <p>Kreatif inovatif dan melatih motorik anak.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-5" style="min-height: 400px;">
                     <div class="position-relative h-100 rounded overflow-hidden">
-                        <img class="position-absolute w-100 h-100" src="img/testimonial.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100" src="img/testimoni.jpg" style="object-fit: cover;">
                     </div>
                 </div>
             </div>
@@ -651,21 +454,32 @@
                 <a href="index.html" class="navbar-brand">
                     <h1 class="m-0 mt-n3 display-4 text-primary">Bolang</h1>
                 </a>
-                <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
+                <p>Gameboard Berkonsep Jelajah Budaya Nusantara</p>
                 <h5 class="font-weight-semi-bold text-white mb-2">Opening Hours:</h5>
                 <p class="mb-1">Mon – Sat, 8AM – 5PM</p>
                 <p class="mb-0">Sunday: Closed</p>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
-                <h4 class="font-weight-semi-bold text-primary mb-4">Get In Touch</h4>
-                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>123 Street, New York, USA</p>
-                <p><i class="fa fa-phone-alt text-primary mr-2"></i>+012 345 67890</p>
-                <p><i class="fa fa-envelope text-primary mr-2"></i>info@example.com</p>
+                <h4 class="font-weight-semi-bold text-primary mb-4">Toko Offline</h4>
+                <p><i class="fa fa-map-marker-alt text-primary mr-2"></i>Jl Veteran, Gresik, Indonesia</p>
+                <p><i class="fa fa-phone-alt text-primary mr-2"></i>+62 857 3062 7705</p>
+                <p><i class="fa fa-envelope text-primary mr-2"></i>gameboardbolang@gmail.com</p>
                 <div class="d-flex justify-content-start mt-4">
-                    <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-light btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-light btn-social" href="#"><i class="fab fa-instagram"></i></a>
+                    <a class="text-primary p-2" href="https://www.tiktok.com/@gameboard.bolang?is_from_webapp=1&sender_device=pc">
+                                <i class="fab fa-tiktok"></i>
+                    </a>
+                    <a class="text-primary p-2" href="https://shopee.co.id/bolang.store13?smtt=0.828665072-1660298461.9">
+                                <i class="fa fa-shopping-cart"></i>
+                            </a>
+                    <a class="text-primary p-2" href="https://api.whatsapp.com/send/?phone=%2B6285730627705&text&type=phone_number&app_absent=0">
+                                <i class="fab fa-whatsapp"></i>
+                    </a>
+                    <a class="text-primary p-2" href="https://instagram.com/gameboard.bolang?igshid=YmMyMTA2M2Y=">
+                                <i class="fab fa-instagram"></i>
+                    </a>
+                    <a class="text-primary p-2" href="https://www.youtube.com/channel/UCLe4pdSReApSfc7iwPUw4Vw">
+                                <i class="fab fa-youtube"></i>
+                    </a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 mb-5">
